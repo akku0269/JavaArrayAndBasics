@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arraytlist/Arraytlist.iml" filepath="$PROJECT_DIR$/Arraytlist/Arraytlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstJava Program.iml" filepath="$PROJECT_DIR$/FirstJava Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Methods/Methods.iml" filepath="$PROJECT_DIR$/Oops/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberSystem/NumberSystem.iml" filepath="$PROJECT_DIR$/NumberSystem/NumberSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oops/Oops.iml" filepath="$PROJECT_DIR$/Oops/Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twoDArray/twoDArray.iml" filepath="$PROJECT_DIR$/twoDArray/twoDArray.iml" />
+    </modules>
+  </component>
+</project>
